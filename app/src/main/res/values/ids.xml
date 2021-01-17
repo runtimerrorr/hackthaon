@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txt_full_Name" type="id" />
+    <item name="txt_Email" type="id" />
+    <item name="txt_password" type="id" />
+    <item name="txt_confirm_password" type="id" />
+    <item name="btn_register" type="id" />
+    <item name="radio_male" type="id" />
+    <item name="radio_female" type="id" />
+    <item name="buttonlogin" type="id"/>
+</resources>

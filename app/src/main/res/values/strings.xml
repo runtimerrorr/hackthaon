@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user_name">user_name</string>
+    <string name="full_name">full_name</string>
+    <string name="enter_email_id">enter_email_id</string>
+    <string name="confirm_password">confirm_password</string>
+    <string name="gender">gender</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="e_mail_id">e-mail ID</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="confirmPassword">confirm password</string>
+    <string name="fullname">fullName</string>
+    <string name="Email">Email</string>
+    <string name="fullName">fullName</string>
+</resources>
